@@ -4,6 +4,7 @@ bluep
 purple
 green
 red
+yellow
 text
 l
 o
